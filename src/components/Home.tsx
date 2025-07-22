@@ -1,8 +1,10 @@
 import React from "react";
 import "../estilos/Home.css";
 import terraDasAguas from "../assets/terra_das_aguas.jpg";
-import CardPrato from "./CardPrato";
+import  CardPrato  from "./CardPrato";
 import CardNovoPrato from "./CardNovoPrato";
+import EditarPrato from "./EditarPrato";
+import Link from "react-router-dom";
 
 function Home() {
 
